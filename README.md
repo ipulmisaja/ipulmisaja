@@ -6,7 +6,7 @@
 - [Web RB](https://bpsprovsulbar.id/rb)
 - [Silatik](https://bpsprovsulbar.id/silatik)
 - [Spatula](https://webapps.bps.go.id/sulbar/spatula/)
-- [Manarang]
+- [Manarang](https://github.com/ipulmisaja/manarang)
 
 <br/>
 
