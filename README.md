@@ -1,4 +1,4 @@
-# Halo, Saya <span style="color:#0078d7">Syaifur Rijal</span>!
+# Halo, Saya <span style="color:#0078d7">Syaifur Rijal (Ipulmisaja)</span>!
 
 ### 📕 Daftar Project
 
